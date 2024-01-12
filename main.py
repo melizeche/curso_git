@@ -1,4 +1,5 @@
-def saludo(nombre):
+def saludo(nombre="Mundo!"):
     print(f"Hola {nombre}")
 
 saludo("Marce")
+saludo()
