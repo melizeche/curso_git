@@ -1,8 +1,3 @@
 Hola, soy el archivo hola.txt
 
 !!!!!!!! AAAHHHHH!!!
-
-Esta es una nueva linea, no trackeada
-
-OOOOOOTRA!
-!!!!
